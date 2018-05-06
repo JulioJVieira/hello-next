@@ -1,0 +1,26 @@
+{
+  "name": "hello-next",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulioJVieira/hello-next.git"
+  },
+  "keywords": [],
+  "author": "Julio Vieira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulioJVieira/hello-next/issues"
+  },
+  "homepage": "https://github.com/JulioJVieira/hello-next#readme",
+  "dependencies": {
+    "next": "^6.0.0",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  }
+}
